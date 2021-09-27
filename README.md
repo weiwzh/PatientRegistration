@@ -30,3 +30,8 @@ List of Patient Names.
 3. Store Patient Data:
 locally
 Store image files on cloudinary [https://github.com/funador/react-image-upload/]
+
+#### Areas of Improvement
+
+##### Visual Design
+Given more time, the design would look closer to this: (./public/ideal_design.png?raw=true)
