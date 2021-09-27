@@ -1,0 +1,38 @@
+.center {
+  height:50vh;
+  text-align: center;
+}
+
+.right {
+  text-align: left;
+  top:5
+}
+
+.hidden {
+  height: 0;
+  overflow: hidden;
+}
+
+.scroll {
+  overflow: scroll;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Basic-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
