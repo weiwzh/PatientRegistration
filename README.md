@@ -34,4 +34,4 @@ Store image files on cloudinary [https://github.com/funador/react-image-upload/]
 #### Areas of Improvement
 
 ##### Visual Design
-Given more time, the design would look closer to this: (./public/ideal_design.png?raw=true)
+Given more time, the design would look closer to this: (https://github.com/weiwzh/PatientRegistration/blob/master/public/ideal_design.png?raw=true)
